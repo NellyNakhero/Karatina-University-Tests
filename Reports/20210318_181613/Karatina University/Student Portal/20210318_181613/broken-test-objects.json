@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Logout\u0027])[1]/following::a[2]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Student_Dashboard/Page_KarU  Portal/a_Dashboard_neighbor.png"
+      "pathToScreenshot": "Reports/20210318_181613/Karatina University/Student Portal/20210318_181613/Object Repository/Student_Dashboard/Page_KarU  Portal/a_Dashboard_neighbor.png"
     }
   ]
 }
